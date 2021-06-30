@@ -152,7 +152,7 @@
     "string-width": "^4.2.2",
     "strip-ansi": "^6.0.0",
     "style-search": "^0.1.0",
-    "sugarss": "^2.0.0",
+    "sugarss": "^3.0.3",
     "svg-tags": "^1.0.0",
     "table": "^6.6.0",
     "v8-compile-cache": "^2.3.0",
